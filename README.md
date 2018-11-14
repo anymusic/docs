@@ -42,6 +42,24 @@
 
 其他还有一些实现，比如 PWA，[nuxt+electron](https://github.com/nuxt-community/electron-template)，TypeScript 版本，学有余力，可以研究下
 
+## 草图
+
+主页/搜索页：
+
+[](./sketch/index.png)
+
+我的歌单：
+
+[](./sketch/playlist.png)
+
+歌单详情页：
+
+[](./sketch/playlist_detail.png)
+
+关于：
+
+[](./sketch/about.png)
+
 ## 具体实现
 
 相关实现的 UI 框架可自行选择
