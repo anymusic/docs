@@ -46,19 +46,19 @@
 
 主页/搜索页：
 
-[](./sketch/index.png)
+![](./sketch/index.png)
 
 我的歌单：
 
-[](./sketch/playlist.png)
+![](./sketch/playlist.png)
 
 歌单详情页：
 
-[](./sketch/playlist_detail.png)
+![](./sketch/playlist_detail.png)
 
 关于：
 
-[](./sketch/about.png)
+![](./sketch/about.png)
 
 ## 具体实现
 
